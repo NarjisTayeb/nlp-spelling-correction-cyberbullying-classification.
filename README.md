@@ -17,7 +17,7 @@ What it does:
 - Selects the best correction using scoring / ranking logic
 - (Optional) Runs an interactive **Gradio** UI for quick testing
 
-Notebook: `notebooks/NLP_SpellingCorretionSystem_NarjisKhloud (1).ipynb`
+
 
 ---
 
